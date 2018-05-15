@@ -1,0 +1,9 @@
+{
+  "interval": 5000,
+  "deviceId": "sensorpuck",
+  "LEDPin": 5,
+  "messageMax": 256,
+  "credentialPath": "~/.iot-hub",
+  "temperatureAlert": 30,
+"connectionString": "HostName=meltesthub.azure-devices.net;DeviceId=sensorpuck;SharedAccessKey=FDvKMvXtSEdmYG9dRsmIxtus0jYseFYS1YXguJuQdh8="
+}
